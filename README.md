@@ -2,7 +2,7 @@
 ***
 [成员1--徐永盛](members/origisxu.md)  
 [成员2--黄毓](members/hynbgls.md)
-[成员3--王睿智](members/maliu666.md)
+[成员3--王睿智](members/maliu666.md)  
 # 团队Logo
 ***
 ## 设计理念
