@@ -7,7 +7,7 @@ import re
 from openai import OpenAI
 
 # ⚠️ 请在此处填入您的 DeepSeek API Key
-API_KEY = "sk-f3f81de4dba44177be847c1dbad6f7dc" 
+API_KEY = "" 
 
 # 初始化客户端
 client = OpenAI(api_key=API_KEY, base_url="https://api.deepseek.com")
